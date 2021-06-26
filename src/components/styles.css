@@ -1,0 +1,34 @@
+.extracker-container {
+    text-align: center;
+    padding: 5% 25% 0% 25%;
+}
+.extracker-wrapper{
+    border: 1px solid black;
+    padding: 0% 20% 2%;
+}
+.mrtop-6{
+    margin-top: 6px;
+}
+.mrleft4{
+    margin-left: 4px;
+}
+.balance-enter-wrapper{
+    border: 1px solid black;
+    padding:20px;
+}
+.transactions-wrapper{
+    border: 1px solid black;
+}
+.mrtop-12{
+    margin-top: 24px;
+}
+.tranction-data{
+    padding: 20px;
+    text-align: left;
+    height:380px;
+   overflow-y: auto; 
+}
+.error-message{
+    color:red;
+    font-size: 14px;
+}
